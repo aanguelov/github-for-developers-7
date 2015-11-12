@@ -1,7 +1,9 @@
-##Name:## Alexander Anguelov
+**Name:** Alexander Anguelov
 
-##From:## Sofia
+**From:** Sofia
 
-##Food:## Yellow cheese
+**Food:** Yellow cheese
 
-##Hobby:## Programming
+**Hobby:** Programming
+
+**Favorite color:** Blue
